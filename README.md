@@ -1,3 +1,5 @@
+https://travis-ci.org/zdrawku/angular-training.svg?branch=master
+
 # angular-training
 
 This project was generated with [Ignite UI CLI](https://github.com/IgniteUI/igniteui-cli) version 4.1.3.
