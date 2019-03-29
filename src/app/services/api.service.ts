@@ -9,7 +9,7 @@ import { environment } from 'src/environments/environment';
 })
 export class ApiService {
   private _people: ReplaySubject<Person []>;
-  private _endPoint = environment.apiEndpont;
+  private _endPoint = environment.apiEndpoint;
 
   constructor(private http: HttpClient) { }
 
