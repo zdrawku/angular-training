@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/zdrawku/angular-training.svg?branch=master)](https://travis-ci.org/zdrawku/angular-training)
-
-[![Build Status](https://dev.azure.com/ZKolev/Angular%20training/_apis/build/status/zdrawku.angular-training?branchName=master)](https://dev.azure.com/ZKolev/Angular%20training/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://travis-ci.org/zdrawku/angular-training.svg?branch=master)](https://travis-ci.org/zdrawku/angular-training) [![Build Status](https://dev.azure.com/ZKolev/Angular%20training/_apis/build/status/zdrawku.angular-training?branchName=master)](https://dev.azure.com/ZKolev/Angular%20training/_build/latest?definitionId=1&branchName=master)
 # angular-training
 
 This project was generated with [Ignite UI CLI](https://github.com/IgniteUI/igniteui-cli) version 4.1.3.
