@@ -20,8 +20,7 @@ export class ApiService {
   public get people() {
     if (!this._people) {
       this._people = new ReplaySubject<Person []>(1);
-      this.getPeople().subscribe(people =>
-        {
+      this.getPeople().subscribe(people => {
           this._people.next(people);
         });
     }
