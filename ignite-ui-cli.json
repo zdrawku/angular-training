@@ -15,5 +15,6 @@
         "isShowcase": false,
         "version": ""
     },
-    "build": {}
+    "build": {},
+    "packagesInstalled": true
 }
