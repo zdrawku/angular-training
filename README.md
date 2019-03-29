@@ -1,4 +1,4 @@
-https://travis-ci.org/zdrawku/angular-training.svg?branch=master
+[![Build Status](https://travis-ci.org/zdrawku/angular-training.svg?branch=master)](https://travis-ci.org/zdrawku/angular-training)
 
 # angular-training
 
